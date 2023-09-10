@@ -8,3 +8,9 @@ Ai Article Summarizer with React Js
 - Form events and catch errors
 - Copy to clipboard
 - Clean code
+
+## Setup the project 
+- Clone the repo.
+- Run the command `npm i` in your project terminal.
+- create new `.env` file and add `VITE_RAPID_API_ARTICLE_KEY` variable with your key.
+- you may get your own key from this link: https://rapidapi.com/restyler/api/article-extractor-and-summarizer?utm_source=youtube.com%2FJavaScriptMastery&utm_medium=referral&utm_campaign=DevRel
